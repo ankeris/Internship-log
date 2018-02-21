@@ -3,12 +3,17 @@
 
 ### Monday
 * Learning react
+
 ### Tuesday
 * Still learning react
 * Advice received from other front-end developer to use "MobX" with React
 * Short discussion about how my project is going with developer
+
 ### Wednesday
 * Trying out MobX + React in Dameblanche framework
+* Spending a lot time fixing mobx erros importing/compiling
+    * Fixed the errors, this effort helped me to understand webpack a bit more
+
 ### Thursday
 
 ### Friday
