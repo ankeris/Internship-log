@@ -2,12 +2,12 @@
 ## Front-end Developement
 
 ### Monday
-* Learning react
+* Learning react in experimental project so I could implement it in my main one later
 
 ### Tuesday
 * Still learning react
 * Advice received from other front-end developer to use "MobX" with React
-* Short discussion about how my project is going with developer
+* Short discussion about my project with other developer
 
 ### Wednesday
 * Trying out MobX + React in Dameblanche framework
@@ -23,5 +23,10 @@
     * Observer
     * Provider
     * Inject
+
+* I am trying MobX solutions exclusively in my experimental project.
+    * Goal in experiment project is to recreate the main project solution on basic level, without any styling.
+
+* After showing my solution on paper to my co-workers I start to implement my solution in main project
 
 ### Friday
