@@ -13,7 +13,15 @@
 * Trying out MobX + React in Dameblanche framework
 * Spending a lot time fixing mobx erros importing/compiling
     * Fixed the errors, this effort helped me to understand webpack a bit more
+* Trying to get to know how to implement MobX in my application correctly.
+* Reading documentation of mobx, react
 
 ### Thursday
+* Drawing my components structure on paper, mobx stores on paper and showing it to co-worker to discuss.
+* Reading documentation of MobX:
+    * Observable
+    * Observer
+    * Provider
+    * Inject
 
 ### Friday
