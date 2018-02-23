@@ -35,6 +35,8 @@
 * Working with MobX stores, observables, injections
     * Changing react states into MobX reservables
 
-* Styling CSS
+* CSS
+    * Looking at the documents I've received for styling
+
 * Starting to implement form validation system into project
     * Mostly if statements
