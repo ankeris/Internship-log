@@ -37,10 +37,11 @@
     * sass / css compile system in Dameblanche, before I've always used Koala compiler.
 
 * Mobile first development started and Finished.
-* started styling for desktops.
+* Started styling for desktops.
 * Started and finished including validation.js library into my project
  
  
 ### Friday
-* received feedback on result.
+* Received feedback on result.
+* Spent some time rethinking of what should I use to fix my solution from the feedback I have received
 

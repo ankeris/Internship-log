@@ -2,6 +2,8 @@
 ## UX Week
 
 ### Monday
+* Presenting my wireframes for UX team in conference room.
+    * Got some feedback
 
 ### Tuesday
 

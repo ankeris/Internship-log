@@ -34,10 +34,17 @@
 * A lot of time in the day was spent learning Adobe XD and learning how the wireframes look more professional
     * Done tutorials
     * Made some wireframes
+    * Looked at my colleagues work
+    * Talked with collegues showed them what I did
 
 * Review of client case
     * Task to update existing wireframes
 
 ### Thursday
+* I have started to work with big client's website. My task is to take out components from existing website and make wireframes following Atomic Design methodology.
+    * That will help UX team to fastly structure new subpages by simply glueing the components wireframes
+
+* Since there are a lot of components, I am working all day on that
+* UX team has set up a date for my wireframes presentation at (Mon Jan 29, 2018 12:15pm – 12:45pm)
 
 ### Friday
