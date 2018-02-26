@@ -31,7 +31,7 @@
 * Received task to rethink of a page's structure
 
 ### Wednesday
-* A lot of time Spent learning Adobe XD
+* A lot of time in the day was spent learning Adobe XD and learning how the wireframes look more professional
     * Done tutorials
     * Made some wireframes
 

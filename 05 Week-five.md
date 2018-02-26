@@ -39,4 +39,4 @@
     * Looking at the documents I've received for styling
 
 * Starting to implement form validation system into project
-    * Mostly if statements
+    * Mostly made with if statements and Regular Expressions
