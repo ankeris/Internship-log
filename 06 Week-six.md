@@ -15,8 +15,10 @@
 * To consolidate my knowledge of react I continue training it on my own until I get feedback on my task
 
 ### Tuesday
+* Today is semi-free day because office has some meetings. My last task is done and waiting for review. Therefore I have to maintain working on my skills so I can be more prepared for next task.
 
 ### Wednesday
+* Writing report
 
 ### Thursday
 

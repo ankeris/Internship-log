@@ -19,7 +19,7 @@
     * Took first notes
 
 ### Tuesday
-* Installation/setup of workflow programs for UX
+* Installation/setup of workflow programs to work in UX team
     * Work email
     * Google Keep (for notes)
     * Basecamp
@@ -48,3 +48,7 @@
 * UX team has set up a date for my wireframes presentation at (Mon Jan 29, 2018 12:15pm – 12:45pm)
 
 ### Friday
+
+* Day starts with meeting with project manager to get some information on upcoming project
+* While meeting im taking notes to keep track of later on
+* I'm making some simple wireframes as a solution for client. Sharing it to my UX colleagues and looking to their wireframes
