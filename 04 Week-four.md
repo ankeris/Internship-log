@@ -2,6 +2,9 @@
 ## Front-end Developement
 
 ### Monday
+Started week of changing my usability of package management. Before I used NPM, but now I start to use yarn.
+    * Less terminal code to achieve result
+    * Fast
 
 ### Tuesday
 
