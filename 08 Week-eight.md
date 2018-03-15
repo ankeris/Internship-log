@@ -22,5 +22,9 @@
 ### Wednesday
 
 ### Thursday
+* Reading documentation at [owasp](https://www.owasp.org/index.php/Main_Page) website. To learn more about security, attacks, potential website threats. Also [google security docs](https://www.google.com/about/appsecurity/learning/xss/).
+
+    * Cross-site scripting attacks
+    * 
 
 ### Friday
