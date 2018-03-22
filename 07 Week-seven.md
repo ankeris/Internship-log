@@ -2,7 +2,9 @@
 ## Front-end Developement
 
 ### Monday
-* Applying facebook api to my component
+* Applying facebook SDK api to my component
+* Reading a lot of documentation
+* Watching how colleagues have used SDK in the past
 * Using ES6 promises in the workflow
     * async / await
 

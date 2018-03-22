@@ -20,11 +20,21 @@
     * I used 'Postman', 'newsapi.org', default react
 
 ### Wednesday
+I have spent a day learning about SDK's, including google sdk, facebook sdk
+* I considered it as preparation for my tasks
 
 ### Thursday
 * Reading documentation at [owasp](https://www.owasp.org/index.php/Main_Page) website. To learn more about security, attacks, potential website threats. Also [google security docs](https://www.google.com/about/appsecurity/learning/xss/).
     * Cross-site scripting attacks
+    * Injections, leaks
 
 * Also looking at tokens, and JSON web tokens (jwt) (security)
 
 ### Friday
+Playing with security
+* Tokens, firebase tokens
+
+* Coding Angular component to help a colleague
+
+Tried to look at some JS based server side
+* Express with node js

@@ -7,8 +7,14 @@ Started week of changing my usability of package management. Before I used NPM, 
     * Fast
 
 ### Tuesday
+In the morning I watched how my colleague uses 3D print to build his IoT project.
+* Looked more into templating languages, trained some Nunjucks
+* Tried to create some SASS mixins, SASS functions
+* Using Dameblanche I tried possibilities of Gulp task runner
 
 ### Wednesday
+* Talking about my upcoming task with project manager.
+* Started preparing for the task, reading about Frameworks and Single page applications
 
 ### Thursday
 * Received a new project from project manager

@@ -18,8 +18,12 @@
 * Today is semi-free day because office has some meetings. My last task is done and waiting for review. Therefore I have to maintain working on my skills so I can be more prepared for next task.
 
 ### Wednesday
+* Learning about API's and Cloud services
 * Writing report
 
 ### Thursday
+* Tried to recreate Gulp tasks without having a boilerplate
+* Learning webpack and compilers
 
 ### Friday
+* Looking back at last task to find what could been done better

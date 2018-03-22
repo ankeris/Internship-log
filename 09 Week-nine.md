@@ -11,6 +11,12 @@
 * Writing my school report, since I don't have too much time anymore
 
 ### Wednesday
+Learning how to have multi language website without too much effort
+* Deciding what tools to use for upcoming project
+    * Sketching list of functionalities on a paper and what they require from technological perspective
+
+* Installed Dameblanche
+* Working on foundation to build backbone for EU website
 
 ### Thursday
 
