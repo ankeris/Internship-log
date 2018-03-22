@@ -33,6 +33,7 @@ I have spent a day learning about SDK's, including google sdk, facebook sdk
 ### Friday
 Playing with security
 * Tokens, firebase tokens
+* jwt (json web tokents)
 
 * Coding Angular component to help a colleague
 
